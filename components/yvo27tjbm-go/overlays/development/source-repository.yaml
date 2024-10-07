@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: yvo27tjbm-go-repository
+spec:
+  url: https://github.com/RHTAP-RHDH/yvo27tjbm-go
